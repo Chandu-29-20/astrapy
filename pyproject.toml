@@ -4,8 +4,8 @@ name = "astrapy"
 version = "2.0.1"
 description = "A Python client for the Data API on DataStax Astra DB"
 authors = [
-    {"name" = "Stefano Lottini", "email" = "stefano.lottini@datastax.com"},
-    {"name" = "Eric Hare", "email" = "eric.hare@datastax.com"},
+    {"name" = "Chandana", "email" = "chandanayadav82153@gmail.com"},
+    {"name" = "Chandana Yadav", "email" = "chandanayadav82153@gmail.com"},
 ]
 readme = "README.md"
 
